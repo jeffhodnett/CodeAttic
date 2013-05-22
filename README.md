@@ -3,33 +3,32 @@ CodeAttic
 
 Old iPhone code i found in the attic (mainly from my old blog http://www.applausible.com which might be gone)
 
-Note: This shit is old!!! So don't complain if it's not current, doesn't work or breaks randomly! It worked at the time, circa 2010.
+**Note: This shit is old!!! So don't complain if it's not current, doesn't work or breaks randomly! It worked at the time, circa 2010.**
 
 
 Youtube iPhone Popup
-==========================
-
+-----------------------
 ![Screenshot](https://raw.github.com/jeffhodnett/CodeAttic/master/YoutubePopup/screenshot.png)
 
 * JHYoutubeView, which you can just feed in the Youtube video code and frame size required, so feel free to use it.
 * Also to note, this only works in the device, so if it’s not showing in the simulator, try it on the device.
 
 iPhone Typewriter Animation
-==========================
+-----------------------
 
 ![Screenshot](https://raw.github.com/jeffhodnett/CodeAttic/master/TypewriterAnimation/screenshot.png)
 
 * A Typewriter animation view that works by adding a UILabel letter by letter on a NSTimer (actually i use FontLabel here to give it a cool typewriter-y look).
 
 RoundedPopup
-==========================
+-----------------------
 
 ![Screenshot](https://raw.github.com/jeffhodnett/CodeAttic/master/RoundedPopup/screenshot.png)
 
 * A Core Graphics drawing here to create your own iPhone popup dialog
 
 Box2dCarTest
-==========================
+-----------------------
 
 ![Screenshot](https://raw.github.com/jeffhodnett/CodeAttic/master/Box2dCarTest/screenshot1.png)
 ![Screenshot](https://raw.github.com/jeffhodnett/CodeAttic/master/Box2dCarTest/screenshot2.png)
