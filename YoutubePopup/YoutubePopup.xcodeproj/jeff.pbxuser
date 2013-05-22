@@ -1,0 +1,337 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* YoutubePopupAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {828, 522}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 506}";
+		};
+	};
+	1D3623250D0F684500981E51 /* YoutubePopupAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1079}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1316}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* YoutubePopup */ = {
+		activeExec = 0;
+		executables = (
+			1F0E259512B144A50066168B /* YoutubePopup */,
+		);
+	};
+	1F0E259512B144A50066168B /* YoutubePopup */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = YoutubePopup;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1F0E259F12B144C30066168B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1F0E25A012B144C30066168B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1F0E25A812B145680066168B /* UIView+Appear.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {626, 359}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 262}";
+		};
+	};
+	1F0E25A912B145680066168B /* UIView+Appear.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 546}}";
+			sepNavSelRange = "{272, 0}";
+			sepNavVisRange = "{0, 1007}";
+		};
+	};
+	1F0E25B012B145910066168B /* JHYoutubeView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 535}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{0, 280}";
+		};
+	};
+	1F0E25B112B145910066168B /* JHYoutubeView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 806}}";
+			sepNavSelRange = "{1234, 0}";
+			sepNavVisRange = "{0, 1171}";
+		};
+	};
+	1F0E25B312B145DB0066168B /* RoundedPopupView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {626, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 538}";
+		};
+	};
+	1F0E25B412B145DB0066168B /* RoundedPopupView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1363, 1729}}";
+			sepNavSelRange = "{1206, 0}";
+			sepNavVisRange = "{227, 1530}";
+		};
+	};
+	1F0E262B12B14A500066168B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F0E262812B14A0E0066168B /* show_popup.png */;
+	};
+	1F0E267D12B14F010066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F0E25B412B145DB0066168B /* RoundedPopupView.m */;
+		name = "RoundedPopupView.m: 36";
+		rLen = 0;
+		rLoc = 1206;
+		rType = 0;
+		vrLen = 1530;
+		vrLoc = 227;
+	};
+	1F0E268912B150540066168B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F0E267812B14EC90066168B /* app_lights.png */;
+	};
+	1F0E268A12B150540066168B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F0E268312B14FC10066168B /* Default.png */;
+	};
+	1F0E268B12B150540066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F0E25A812B145680066168B /* UIView+Appear.h */;
+		name = "UIView+Appear.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 262;
+		vrLoc = 0;
+	};
+	1F0E268C12B150540066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F0E25B312B145DB0066168B /* RoundedPopupView.h */;
+		name = "RoundedPopupView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 538;
+		vrLoc = 0;
+	};
+	1F0E269112B151210066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F0E25A912B145680066168B /* UIView+Appear.m */;
+		name = "UIView+Appear.m: 16";
+		rLen = 0;
+		rLoc = 272;
+		rType = 0;
+		vrLen = 1007;
+		vrLoc = 0;
+	};
+	1F0E269712B151480066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F0E25B012B145910066168B /* JHYoutubeView.h */;
+		name = "JHYoutubeView.h: 15";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 0;
+	};
+	1F0E26A512B151BB0066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* YoutubePopupAppDelegate.h */;
+		name = "YoutubePopupAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	1F0E26A612B151BB0066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* YoutubePopupAppDelegate.m */;
+		name = "YoutubePopupAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1316;
+		vrLoc = 0;
+	};
+	1F0E26A712B151BB0066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* YoutubePopupViewController.h */;
+		name = "YoutubePopupViewController.h: 12";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	1F0E26A812B151BB0066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* YoutubePopupViewController.m */;
+		name = "YoutubePopupViewController.m: 14";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 872;
+		vrLoc = 0;
+	};
+	1F0E26A912B151BB0066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F0E25B112B145910066168B /* JHYoutubeView.m */;
+		name = "JHYoutubeView.m: 43";
+		rLen = 0;
+		rLoc = 1234;
+		rType = 0;
+		vrLen = 1118;
+		vrLoc = 386;
+	};
+	1F0E26AA12B151BB0066168B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F0E25B112B145910066168B /* JHYoutubeView.m */;
+		name = "JHYoutubeView.m: 43";
+		rLen = 0;
+		rLoc = 1234;
+		rType = 0;
+		vrLen = 1171;
+		vrLoc = 0;
+	};
+	28D7ACF60DDB3853001CB0EB /* YoutubePopupViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {828, 522}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRange = "{0, 345}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* YoutubePopupViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {828, 1157}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 872}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1F0E259512B144A50066168B /* YoutubePopup */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* YoutubePopup */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* YoutubePopup */,
+		);
+		codeSenseManager = 1F0E25A012B144C30066168B /* Code sense */;
+		executables = (
+			1F0E259512B144A50066168B /* YoutubePopup */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					650,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					462,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					610,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313607333;
+			PBXWorkspaceStateSaveDate = 313607333;
+		};
+		perUserProjectItems = {
+			1F0E262B12B14A500066168B /* PBXBookmark */ = 1F0E262B12B14A500066168B /* PBXBookmark */;
+			1F0E267D12B14F010066168B /* PBXTextBookmark */ = 1F0E267D12B14F010066168B /* PBXTextBookmark */;
+			1F0E268912B150540066168B /* PBXBookmark */ = 1F0E268912B150540066168B /* PBXBookmark */;
+			1F0E268A12B150540066168B /* PBXBookmark */ = 1F0E268A12B150540066168B /* PBXBookmark */;
+			1F0E268B12B150540066168B /* PBXTextBookmark */ = 1F0E268B12B150540066168B /* PBXTextBookmark */;
+			1F0E268C12B150540066168B /* PBXTextBookmark */ = 1F0E268C12B150540066168B /* PBXTextBookmark */;
+			1F0E269112B151210066168B /* PBXTextBookmark */ = 1F0E269112B151210066168B /* PBXTextBookmark */;
+			1F0E269712B151480066168B /* PBXTextBookmark */ = 1F0E269712B151480066168B /* PBXTextBookmark */;
+			1F0E26A512B151BB0066168B /* PBXTextBookmark */ = 1F0E26A512B151BB0066168B /* PBXTextBookmark */;
+			1F0E26A612B151BB0066168B /* PBXTextBookmark */ = 1F0E26A612B151BB0066168B /* PBXTextBookmark */;
+			1F0E26A712B151BB0066168B /* PBXTextBookmark */ = 1F0E26A712B151BB0066168B /* PBXTextBookmark */;
+			1F0E26A812B151BB0066168B /* PBXTextBookmark */ = 1F0E26A812B151BB0066168B /* PBXTextBookmark */;
+			1F0E26A912B151BB0066168B /* PBXTextBookmark */ = 1F0E26A912B151BB0066168B /* PBXTextBookmark */;
+			1F0E26AA12B151BB0066168B /* PBXTextBookmark */ = 1F0E26AA12B151BB0066168B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1F0E259F12B144C30066168B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

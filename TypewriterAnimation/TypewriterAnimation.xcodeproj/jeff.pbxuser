@@ -1,0 +1,350 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TypewriterAnimationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 323}}";
+			sepNavSelRange = "{108, 0}";
+			sepNavVisRange = "{0, 548}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TypewriterAnimationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1131}}";
+			sepNavSelRange = "{108, 0}";
+			sepNavVisRange = "{0, 1260}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TypewriterAnimation */ = {
+		activeExec = 0;
+		executables = (
+			1F04134A125CE2F300AE8EB3 /* TypewriterAnimation */,
+		);
+	};
+	1F04134A125CE2F300AE8EB3 /* TypewriterAnimation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TypewriterAnimation;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	1F041359125CE30100AE8EB3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1F04135A125CE30100AE8EB3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1F04135E125CE3A900AE8EB3 /* JHTypeWriterView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 618}}";
+			sepNavSelRange = "{295, 14}";
+			sepNavVisRange = "{0, 639}";
+		};
+	};
+	1F04135F125CE3A900AE8EB3 /* JHTypeWriterView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 1703}}";
+			sepNavSelRange = "{181, 0}";
+			sepNavVisRange = "{53, 979}";
+			sepNavWindowFrame = "{{15, 127}, {1006, 746}}";
+		};
+	};
+	1F3D8CAD12D6818500BB847E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TypewriterAnimationViewController.m */;
+		name = "TypewriterAnimationViewController.m: 57";
+		rLen = 14;
+		rLoc = 1553;
+		rType = 0;
+		vrLen = 1004;
+		vrLoc = 699;
+	};
+	1F3D8CC012D6826500BB847E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F04135F125CE3A900AE8EB3 /* JHTypeWriterView.m */;
+		name = "JHTypeWriterView.m: 9";
+		rLen = 0;
+		rLoc = 178;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 153;
+	};
+	1F3D8CCD12D6831E00BB847E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8F11BE125DF52300D5D25C /* ZAttributedString.m */;
+		name = "ZAttributedString.m: 67";
+		rLen = 0;
+		rLoc = 1986;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 1331;
+	};
+	1F3D8CCE12D6831E00BB847E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TypewriterAnimationViewController.h */;
+		name = "TypewriterAnimationViewController.h: 24";
+		rLen = 0;
+		rLoc = 567;
+		rType = 0;
+		vrLen = 903;
+		vrLoc = 0;
+	};
+	1F3D8CCF12D6831E00BB847E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TypewriterAnimation-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jeff/Desktop/TypewriterAnimation/TypewriterAnimation-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	1F3D8CDB12D6837200BB847E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TypewriterAnimation-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jeff/Desktop/TypewriterAnimation/TypewriterAnimation-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	1F8F107A125DE6DE00D5D25C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8F107B125DE6DE00D5D25C /* NSString.h */;
+		name = "NSString.h: 93";
+		rLen = 47;
+		rLoc = 4803;
+		rType = 0;
+		vrLen = 3554;
+		vrLoc = 2972;
+	};
+	1F8F107B125DE6DE00D5D25C /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	1F8F11B7125DF52300D5D25C /* FontLabel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1336, 1158}}";
+			sepNavSelRange = "{1788, 0}";
+			sepNavVisRange = "{0, 1788}";
+			sepNavWindowFrame = "{{38, 106}, {1395, 1286}}";
+		};
+	};
+	1F8F11BE125DF52300D5D25C /* ZAttributedString.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {943, 7839}}";
+			sepNavSelRange = "{2031, 0}";
+			sepNavVisRange = "{1773, 669}";
+		};
+	};
+	1F8F11C0125DF52300D5D25C /* ZFont.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1336, 1158}}";
+			sepNavSelRange = "{744, 5}";
+			sepNavVisRange = "{0, 1827}";
+			sepNavWindowFrame = "{{15, 127}, {1395, 1286}}";
+		};
+	};
+	1F8F11C1125DF52300D5D25C /* ZFont.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1336, 2236}}";
+			sepNavSelRange = "{1347, 14}";
+			sepNavVisRange = "{1637, 2687}";
+		};
+	};
+	1F8F1293125E0AB100D5D25C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F8F1278125E06F100D5D25C /* Icon.png */;
+	};
+	1FA8EC0912D67FF600D4522A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F8F1276125E06EF00D5D25C /* Icon@2x.png */;
+	};
+	1FA8EC0A12D67FF600D4522A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TypewriterAnimationAppDelegate.h */;
+		name = "TypewriterAnimationAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 108;
+		rType = 0;
+		vrLen = 548;
+		vrLoc = 0;
+	};
+	1FA8EC1912D6801800D4522A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TypewriterAnimationAppDelegate.m */;
+		name = "TypewriterAnimationAppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 108;
+		rType = 0;
+		vrLen = 1260;
+		vrLoc = 0;
+	};
+	1FA8EC2512D6809E00D4522A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F04135E125CE3A900AE8EB3 /* JHTypeWriterView.h */;
+		name = "JHTypeWriterView.h: 11";
+		rLen = 0;
+		rLoc = 215;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 0;
+	};
+	28D7ACF60DDB3853001CB0EB /* TypewriterAnimationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {647, 452}}";
+			sepNavSelRange = "{567, 0}";
+			sepNavVisRange = "{0, 903}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TypewriterAnimationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 1859}}";
+			sepNavSelRange = "{1553, 14}";
+			sepNavVisRange = "{699, 1004}";
+			sepNavWindowFrame = "{{38, 106}, {1006, 746}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1F04134A125CE2F300AE8EB3 /* TypewriterAnimation */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TypewriterAnimation */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TypewriterAnimation */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 1F04135A125CE30100AE8EB3 /* Code sense */;
+		executables = (
+			1F04134A125CE2F300AE8EB3 /* TypewriterAnimation */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					417,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					483,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					429,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316047608;
+			PBXWorkspaceStateSaveDate = 316047608;
+		};
+		perUserProjectItems = {
+			1F3D8CAD12D6818500BB847E /* PBXTextBookmark */ = 1F3D8CAD12D6818500BB847E /* PBXTextBookmark */;
+			1F3D8CC012D6826500BB847E /* PBXTextBookmark */ = 1F3D8CC012D6826500BB847E /* PBXTextBookmark */;
+			1F3D8CCD12D6831E00BB847E /* PBXTextBookmark */ = 1F3D8CCD12D6831E00BB847E /* PBXTextBookmark */;
+			1F3D8CCE12D6831E00BB847E /* PBXTextBookmark */ = 1F3D8CCE12D6831E00BB847E /* PBXTextBookmark */;
+			1F3D8CCF12D6831E00BB847E /* PlistBookmark */ = 1F3D8CCF12D6831E00BB847E /* PlistBookmark */;
+			1F3D8CDB12D6837200BB847E /* PlistBookmark */ = 1F3D8CDB12D6837200BB847E /* PlistBookmark */;
+			1F8F107A125DE6DE00D5D25C /* PBXTextBookmark */ = 1F8F107A125DE6DE00D5D25C /* PBXTextBookmark */;
+			1F8F1293125E0AB100D5D25C /* PBXBookmark */ = 1F8F1293125E0AB100D5D25C /* PBXBookmark */;
+			1FA8EC0912D67FF600D4522A /* PBXBookmark */ = 1FA8EC0912D67FF600D4522A /* PBXBookmark */;
+			1FA8EC0A12D67FF600D4522A /* PBXTextBookmark */ = 1FA8EC0A12D67FF600D4522A /* PBXTextBookmark */;
+			1FA8EC1912D6801800D4522A /* PBXTextBookmark */ = 1FA8EC1912D6801800D4522A /* PBXTextBookmark */;
+			1FA8EC2512D6809E00D4522A /* PBXTextBookmark */ = 1FA8EC2512D6809E00D4522A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1F041359125CE30100AE8EB3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1186, 357}}";
+			sepNavSelRange = "{269, 0}";
+			sepNavVisRange = "{0, 368}";
+		};
+	};
+	8D1107310486CEB800E47090 /* TypewriterAnimation-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 127}, {1006, 746}}";
+		};
+	};
+}
