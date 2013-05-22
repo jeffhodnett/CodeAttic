@@ -32,7 +32,7 @@ Box2dCarTest
 ==========================
 
 ![Screenshot](https://raw.github.com/jeffhodnett/CodeAttic/master/Box2dCarTest/screenshot1.png)
-![Screenshot](https://raw.github.com/jeffhodnett/CodeAttic/master/Box2dCarTest/screnshot2.png)
+![Screenshot](https://raw.github.com/jeffhodnett/CodeAttic/master/Box2dCarTest/screenshot2.png)
 
 * A really nice code example here of Cocos2d Box2d for all ye game devs out there!
 * I ported a Emanuele Feronato Flash ActionScript example to Cocos2d for the iPhone.
